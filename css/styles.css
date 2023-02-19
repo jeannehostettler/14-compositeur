@@ -9,8 +9,14 @@ img {
   max-width: 100%;
 }
 
+body {
+padding: 10px;
+}
+
 html {
   text-align: center;
+  color: white;
+  background-color: antiquewhite;
 }
 
 nav {  
