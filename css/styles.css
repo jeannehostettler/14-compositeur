@@ -11,12 +11,12 @@ img {
 
 body {
 padding: 10px;
+background-color: black;
 }
 
 html {
   text-align: center;
   color: white;
-  background-color: antiquewhite;
 }
 
 nav {  
