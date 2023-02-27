@@ -23,3 +23,17 @@ nav {
 display: flex;
 justify-content: space-between;
 }
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+color: orange;
+}
+
+h1, h2 {
+  color: orange;
+  font-family: 'Tilt Prism', cursive;
+}
