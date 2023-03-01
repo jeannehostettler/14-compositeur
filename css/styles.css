@@ -1,19 +1,16 @@
 body {
   max-width: 320px;
   margin: auto;
-  background: #ddd;
+  padding: 10px;
+  background-color: black;
+  background-image: url(../img/image-de-fond.jpg);
+  font-family: 'Labrada', serif;
+  font-weight: 100;
 }
 
 img {
   display: block;
   max-width: 100%;
-}
-
-body {
-padding: 10px;
-background-color: black;
-font-family: 'Labrada', serif;
-font-weight: 100;
 }
 
 html {
@@ -24,6 +21,7 @@ html {
 nav {  
 display: flex;
 justify-content: space-between;
+
 }
 
 a {
@@ -31,6 +29,7 @@ a {
   color: white;
   font-family: 'Tilt Prism', cursive;
   font-size: small;
+  
 }
 
 a:hover {
@@ -40,4 +39,14 @@ color: orange;
 h1, h2 {
   color: orange;
   font-family: 'Tilt Prism', cursive;
+  font-weight: 100;
+}
+
+button {
+  background-color: black;
+  background-image: url(../img/button-border.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  border: none;
 }
