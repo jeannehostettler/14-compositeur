@@ -16,7 +16,7 @@ img {
 html {
   text-align: center;
   color: white;
-  
+  scroll-behavior: smooth;
 }
 
 nav {  
