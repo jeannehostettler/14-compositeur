@@ -21,15 +21,13 @@ html {
 nav {  
 display: flex;
 justify-content: space-between;
-
 }
 
 a {
   text-decoration: none;
   color: white;
   font-family: 'Tilt Prism', cursive;
-  font-size: small;
-  
+  font-size: 15px;
 }
 
 a:hover {
